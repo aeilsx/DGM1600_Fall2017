@@ -1,6 +1,6 @@
 Utah weather
 
-Provo
-79 Degrees
-Sunny
-0% chance of rain
+Provo 9/11/2017
+85 Degrees
+Partly Sunny
+3% chance of rain
