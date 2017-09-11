@@ -1,6 +1,6 @@
 California weather
 
-Los Angeles 9/10/2017
-91 Degrees
-Mostly Sunny
-35% chance of rain
+Los Angeles 9/11/2017
+86 Degrees
+Partly Sunny
+5% chance of rain
