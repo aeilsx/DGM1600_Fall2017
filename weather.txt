@@ -1,6 +1,7 @@
-California weather
+Florida weather
 
-Los Angeles 9/11/2017
-86 Degrees
-Partly Sunny
-5% chance of rain
+Keys 9/10/2017
+79 Degrees
+Hurricane Irma approaching
+76mph gusts
+100% chance of rain
