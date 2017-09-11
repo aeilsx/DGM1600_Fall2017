@@ -1,6 +1,6 @@
-Utah weather
+California weather
 
-Provo 9/11/2017
-85 Degrees
-Partly Sunny
-3% chance of rain
+Los Angeles 9/10/2017
+91 Degrees
+Mostly Sunny
+35% chance of rain
