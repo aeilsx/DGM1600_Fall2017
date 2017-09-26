@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Switch statements are used to present multiple variables and test one against another 
+//variable. A switch has cases and the value of the variable is tested against each case and 
+//if not present is equal to the default option. They can be used as strings and even 
+//to perform different operations depending on the value of the variable.
+
 public class Switch : MonoBehaviour {
 	public string townCenter = "main"; 
 
@@ -166,10 +171,48 @@ public class Switch : MonoBehaviour {
 		}	
 	}
 
-	public string 
+	public string class = "paladin";
 
+	void Start () {
+		switch(class){
+			case "paladin":
+				print("Hello Paladin! Please take the passage on the right!");
+			break;
+			case "soldier":
+				print("Hello Soldier! Please take the middle passage.");
+			break;
+			case "mage":
+				print("Hello Mage. Please select the passage on the right!");
+			break;
+			default:
+				print("Hello! I recommend turning back. Or advance if you dare.");
+			break;
+		}
+	}
 
+	public string name = "Frisk";
 
-
+	void Start () {
+		switch(name){
+			case "Frisk":
+				print("WARNING: This name will make your life hell. Proceed anyway?");
+			break;
+			case "Flowey":
+				print("I already CHOSE that name.");
+			break;
+			case "sans":
+				print("nope.");
+			break;
+			case "Undyne":
+				print("Get your OWN name!");
+			break;
+			case "Papyru":
+				print("I'LL ALLOW IT!!!!");
+			break;
+			default:
+				print("Is this name correct?");
+			break;
+		}
+	}
 
 }
