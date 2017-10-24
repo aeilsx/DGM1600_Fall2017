@@ -39,7 +39,7 @@ public class LogicalOp : MonoBehaviour {
 	// 	print("Han for lyfe.");
 	// }
 	//}
-
+	//
 
 	void Start () {
 	if(lightSide == "Obi Wan" || darkSide == "Jar Jar Binks"){
